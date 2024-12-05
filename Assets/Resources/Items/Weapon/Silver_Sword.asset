@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 347fbc0e3b71fec4da176061ec73dc95, type: 3}
+  m_Name: Silver_Sword
+  m_EditorClassIdentifier: 
+  type: 1
+  Name: Silver Sword
+  Description: Go kill some werewolf.
+  Icon: {fileID: 21300000, guid: 95052c6b62fb3de4695beaa99f842ac2, type: 3}
+  _stats:
+    Weight: 15
+    Value: 60
+    rarity: 1
+  _weapon_stats:
+    damage: 22
+    magicDamage: 12
+    attackSpeed: 0.9
+    durability: 70
+    damageType: 1
